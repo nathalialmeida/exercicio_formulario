@@ -1,0 +1,61 @@
+
+
+.nome{
+    margin-left:27%;
+    margin-top: 12%;
+    position: relative;
+    padding: 0; 
+    float:left;
+    font-size: 20px;
+ 
+    
+}
+
+
+.idade{
+   
+    margin-right:30%;
+    margin-top: 12%;
+    position: relative;
+    float:right;
+    font-size: 20px;
+  
+    
+}
+
+.button{
+    margin-left:100%;
+    margin-top: 5%;
+    position: relative;
+    float:right;
+    right: 47%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+button:hover{
+    background-color: #cfe0e8;
+}
+
+input:focus {
+    background-color: #cfe0e8;
+    outline: none;
+}
+
+.enviar{
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+
+}
+
+input:hover{
+background-color: #cfe0e8;
+}
+input{
+    cursor:pointer;
+    width: 250px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
